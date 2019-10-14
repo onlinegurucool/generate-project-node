@@ -20,3 +20,6 @@ npm link
 
 ## Generate or *starproject* new project
 
+
+> Learn more about how it works [here](https://medium.com/northcoders/creating-a-project-generator-with-node-29e13b3cd309)
+
